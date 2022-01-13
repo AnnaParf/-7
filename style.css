@@ -1,0 +1,10 @@
+body {
+  display: flex;
+  flex-direction: column-reverse;
+  background-color: yellow;
+  margin: 300px 0 0 300px;
+}
+
+img {
+  width: 700px;
+}
